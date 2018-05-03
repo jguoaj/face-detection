@@ -4,7 +4,7 @@
 The task given by this assignment is to implement a multi-scale sliding window face detector based on concepts presented in Dalal-Triggs 2005 and Viola-Jones 2001. The algorithm will be evaluated using a common benchmark for face detection (Caltech).
 
 ### Reference Paper
-[Histograms of Oriented Gradients for Human Detection]
+[Histograms of Oriented Gradients for Human Detection](https://github.com/jguoaj/face-detection/blob/master/dalal_triggs_cvpr_2005.pdf)
 
 ### Methodology
 
